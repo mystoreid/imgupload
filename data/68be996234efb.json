@@ -11,7 +11,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
       "featured": true,
       "category": "learning",
-      "description": "Pelajari cara membuat website responsive dengan HTML dan CSS hanya dalam 10 menit. Tutorial pemula yang mudah diikuti."
+      "description": "Pelajari cara membuat website responsive dengan HTML dan CSS hanya dalam 10 menit. Tutorial pemula yang mudah diikuti.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1160&q=80",
       "featured": false,
       "category": "learning",
-      "description": "Video tutorial JavaScript dasar untuk pemula. Mulai dari variabel, tipe data, hingga function."
+      "description": "Video tutorial JavaScript dasar untuk pemula. Mulai dari variabel, tipe data, hingga function.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
     },
     {
       "id": 3,
@@ -37,7 +39,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
       "featured": true,
       "category": "tech",
-      "description": "Review lengkap smartphone flagship terbaru tahun 2023. Kami menguji kamera, performa, baterai, dan fitur lainnya."
+      "description": "Review lengkap smartphone flagship terbaru tahun 2023. Kami menguji kamera, performa, baterai, dan fitur lainnya.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
     },
     {
       "id": 4,
@@ -50,7 +53,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80",
       "featured": false,
       "category": "cooking",
-      "description": "5 resep masakan Indonesia terenak yang mudah dibuat di rumah. Dari rendang hingga soto ayam, semua ada di sini!"
+      "description": "5 resep masakan Indonesia terenak yang mudah dibuat di rumah. Dari rendang hingga soto ayam, semua ada di sini!",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
     },
     {
       "id": 5,
@@ -63,7 +67,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
       "featured": true,
       "category": "sports",
-      "description": "Workout rutin di rumah tanpa perlu alat. Latihan full body selama 30 menit yang efektif membakar kalori."
+      "description": "Workout rutin di rumah tanpa perlu alat. Latihan full body selama 30 menit yang efektif membakar kalori.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
     },
     {
       "id": 6,
@@ -76,7 +81,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
       "featured": false,
       "category": "finance",
-      "description": "Panduan lengkap investasi untuk pemula. Mulai dari saham, reksadana, hingga crypto. Tips mengelola risiko dan dapatkan profit."
+      "description": "Panduan lengkap investasi untuk pemula. Mulai dari saham, reksadana, hingga crypto. Tips mengelola risiko dan dapatkan profit.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
     },
     {
       "id": 7,
@@ -89,7 +95,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
       "featured": true,
       "category": "gaming",
-      "description": "Deretan game mobile terbaik di tahun 2023. Review gameplay, grafis, dan keseruan masing-masing game."
+      "description": "Deretan game mobile terbaik di tahun 2023. Review gameplay, grafis, dan keseruan masing-masing game.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
     },
     {
       "id": 8,
@@ -99,10 +106,11 @@
       "uploadDate": "4 bulan yang lalu",
       "thumbnail": "https://images.unsplash.com/photo-1611605698335-8b1569810432?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
       "duration": "16:40",
-      "channelIcon": "https://images.unsplash.com/photo-1516726817505-f5ed825624d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+      "channelIcon": "https://images.unsplash.com/photo-1516726817505-f5ed825624d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwa90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
       "featured": false,
       "category": "learning",
-      "description": "Belajar Photoshop dari dasar untuk pemula. Pelajari tools dasar, layer, hingga teknik editing sederhana."
+      "description": "Belajar Photoshop dari dasar untuk pemula. Pelajari tools dasar, layer, hingga teknik editing sederhana.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
     },
     {
       "id": 9,
@@ -115,7 +123,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1494232410401-ad00d5433cfa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
       "featured": true,
       "category": "music",
-      "description": "Kumpulan lagu pop terbaru dan terhits di tahun 2023. Dengarkan dan nikmati musik terbaik dari artis lokal dan internasional."
+      "description": "Kumpulan lagu pop terbaru dan terhits di tahun 2023. Dengarkan dan nikmati musik terbaik dari artis lokal dan internasional.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
     },
     {
       "id": 10,
@@ -128,7 +137,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1586348943529-beaae6c28db9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=715&q=80",
       "featured": false,
       "category": "news",
-      "description": "Update berita terkini hari ini. Informasi terbaru seputar politik, ekonomi, dan peristiwa penting lainnya."
+      "description": "Update berita terkini hari ini. Informasi terbaru seputar politik, ekonomi, dan peristiwa penting lainnya.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
     },
     {
       "id": 11,
@@ -141,7 +151,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
       "featured": true,
       "category": "live",
-      "description": "Live streaming bermain game horror terbaru. Saksikan reaksi spontan dan gameplay seru!"
+      "description": "Live streaming bermain game horror terbaru. Saksikan reaksi spontan dan gameplay seru!",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
     },
     {
       "id": 12,
@@ -154,7 +165,8 @@
       "channelIcon": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=699&q=80",
       "featured": true,
       "category": "sports",
-      "description": "Highlight lengkap pertandingan bola malam ini. Gol-gol terbaik dan momen penting dalam pertandingan."
+      "description": "Highlight lengkap pertandingan bola malam ini. Gol-gol terbaik dan momen penting dalam pertandingan.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
     }
   ]
 }
